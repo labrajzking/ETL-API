@@ -1,0 +1,1 @@
+2024-03-07 17:05:27,363 - __main__ - ERROR - Error fetching data from database: Authentication plugin 'caching_sha2_password' is not supported

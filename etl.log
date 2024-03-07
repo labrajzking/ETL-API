@@ -1,0 +1,291 @@
+2024-03-07 11:09:36,471 - ERROR - Error connecting to MySQL database: Authentication plugin 'caching_sha2_password' is not supported
+2024-03-07 11:14:09,528 - ERROR - Error connecting to MySQL database: Authentication plugin 'caching_sha2_password' is not supported
+2024-03-07 17:13:57,551 - INFO - Connected to MySQL database
+2024-03-07 17:14:44,362 - INFO - Connected to MySQL database
+2024-03-07 17:14:44,429 - INFO - Table 'data' created successfully
+2024-03-07 17:14:44,430 - WARNING - File ford_escort.csv does not exist.
+2024-03-07 17:15:18,921 - INFO - Connected to MySQL database
+2024-03-07 17:15:18,934 - INFO - Table 'data' created successfully
+2024-03-07 17:15:18,939 - INFO - Extracting data from ford_escort.csv
+2024-03-07 17:15:18,959 - INFO - Transforming data
+2024-03-07 17:15:18,959 - INFO - Loading data to MySQL database
+2024-03-07 17:15:55,179 - INFO - Connected to MySQL database
+2024-03-07 17:15:55,184 - INFO - Table 'data' created successfully
+2024-03-07 17:15:55,185 - INFO - Extracting data from ford_escort.csv
+2024-03-07 17:15:55,188 - INFO - Transforming data
+2024-03-07 17:15:55,189 - INFO - Loading data to MySQL database
+2024-03-07 17:17:04,121 - INFO - Connected to MySQL database
+2024-03-07 17:17:04,126 - INFO - Table 'data' created successfully
+2024-03-07 17:17:04,126 - INFO - Extracting data from ford_escort.csv
+2024-03-07 17:17:04,129 - INFO - Transforming data
+2024-03-07 17:17:04,130 - INFO - Loading data to MySQL database
+2024-03-07 17:18:12,242 - INFO - Connected to MySQL database
+2024-03-07 17:18:12,257 - INFO - Table 'data' created successfully
+2024-03-07 17:18:12,258 - INFO - Extracting data from ford_escort.csv
+2024-03-07 17:18:12,261 - INFO - Transforming data
+2024-03-07 17:18:12,262 - INFO - Loading data to MySQL database
+2024-03-07 17:19:11,847 - INFO - Connected to MySQL database
+2024-03-07 17:19:11,864 - INFO - Table 'data' created successfully
+2024-03-07 17:19:11,866 - INFO - Extracting data from ford_escort.csv
+2024-03-07 17:19:11,869 - INFO - Transforming data
+2024-03-07 17:19:11,906 - INFO - Loading data to MySQL database
+2024-03-07 17:20:12,003 - INFO - Connected to MySQL database
+2024-03-07 17:20:12,018 - INFO - Table 'data' created successfully
+2024-03-07 17:20:12,019 - INFO - Extracting data from ford_escort.csv
+2024-03-07 17:20:12,024 - INFO - Transforming data
+2024-03-07 17:20:12,031 - INFO - Loading data to MySQL database
+2024-03-07 17:20:27,652 - INFO - Connected to MySQL database
+2024-03-07 17:20:27,668 - INFO - Table 'data' created successfully
+2024-03-07 17:20:27,669 - INFO - Extracting data from ford_escort.csv
+2024-03-07 17:20:27,673 - INFO - Transforming data
+2024-03-07 17:20:27,685 - INFO - Loading data to MySQL database
+2024-03-07 17:24:10,426 - INFO - Connected to MySQL database
+2024-03-07 17:24:10,440 - INFO - Table 'data' created successfully
+2024-03-07 17:24:10,440 - INFO - Extracting data from ford_escort.csv
+2024-03-07 17:24:10,443 - INFO - Transforming data
+2024-03-07 17:24:10,453 - INFO - Loading data to MySQL database
+2024-03-07 17:25:53,989 - INFO - Connected to MySQL database
+2024-03-07 17:25:54,003 - INFO - Table 'data' created successfully
+2024-03-07 17:25:54,004 - INFO - Extracting data from ford_escort.csv
+2024-03-07 17:25:54,008 - INFO - Transforming data
+2024-03-07 17:25:54,018 - INFO - Loading data to MySQL database
+2024-03-07 17:27:25,607 - INFO - Connected to MySQL database
+2024-03-07 17:27:25,621 - INFO - Table 'data' created successfully
+2024-03-07 17:27:25,621 - INFO - Extracting data from ford_escort.csv
+2024-03-07 17:27:25,629 - INFO - Transforming data
+2024-03-07 17:27:25,633 - INFO - Loading data to MySQL database
+2024-03-07 17:28:30,205 - INFO - Connected to MySQL database
+2024-03-07 17:28:30,218 - INFO - Table 'data' created successfully
+2024-03-07 17:28:30,220 - INFO - Extracting data from ford_escort.csv
+2024-03-07 17:28:30,231 - INFO - Transforming data
+2024-03-07 17:28:30,239 - INFO - Loading data to MySQL database
+2024-03-07 17:32:50,903 - INFO - Connected to MySQL database
+2024-03-07 17:32:50,917 - INFO - Table 'data' created successfully
+2024-03-07 17:32:50,918 - INFO - Extracting data from ford_escort.csv
+2024-03-07 17:32:50,928 - INFO - Transforming data
+2024-03-07 17:32:50,941 - INFO - Loading data to MySQL database
+2024-03-07 17:33:08,628 - INFO - Connected to MySQL database
+2024-03-07 17:33:08,642 - INFO - Table 'data' created successfully
+2024-03-07 17:33:08,647 - INFO - Extracting data from ford_escort.csv
+2024-03-07 17:33:08,659 - INFO - Transforming data
+2024-03-07 17:33:08,663 - INFO - Loading data to MySQL database
+2024-03-07 17:33:26,982 - INFO - Connected to MySQL database
+2024-03-07 17:33:26,986 - INFO - Table 'data' created successfully
+2024-03-07 17:33:26,987 - INFO - Extracting data from ford_escort.csv
+2024-03-07 17:33:27,004 - INFO - Transforming data
+2024-03-07 17:33:27,009 - INFO - Loading data to MySQL database
+2024-03-07 17:34:12,417 - INFO - Connected to MySQL database
+2024-03-07 17:34:12,432 - INFO - Table 'data' created successfully
+2024-03-07 17:34:12,433 - INFO - Extracting data from ford_escort.csv
+2024-03-07 17:34:12,443 - INFO - Transforming data
+2024-03-07 17:34:12,446 - INFO - Loading data to MySQL database
+2024-03-07 17:34:12,467 - INFO - Data loaded successfully
+2024-03-07 17:34:12,468 - INFO - ETL Pipeline completed
+2024-03-07 17:36:58,702 - INFO - Connected to MySQL database
+2024-03-07 17:36:58,717 - INFO - Table 'data' created successfully
+2024-03-07 17:36:58,718 - INFO - Extracting data from ford_escort.csv
+2024-03-07 17:36:58,732 - INFO - Transforming data
+2024-03-07 17:36:58,735 - INFO - Loading data to MySQL database
+2024-03-07 17:36:58,752 - INFO - Data loaded successfully
+2024-03-07 17:36:58,753 - INFO - ETL Pipeline completed
+2024-03-07 17:37:15,775 - INFO - Data loaded successfully
+2024-03-07 17:37:15,880 - INFO - Connected to MySQL database
+2024-03-07 17:37:15,885 - INFO - Table 'data' created successfully
+2024-03-07 17:37:15,886 - INFO - Extracting data from ford_escort.csv
+2024-03-07 17:37:15,899 - INFO - Transforming data
+2024-03-07 17:37:15,903 - INFO - Loading data to MySQL database
+2024-03-07 17:37:15,904 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (1.0, 0.3283582089552239, 0.8165454545454546)' at line 1
+2024-03-07 17:37:15,906 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.1791044776119403, 0.8045454545454546)' at line 1
+2024-03-07 17:37:15,908 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (1.0, 0.34328358208955223, 0.9074545454545454)' at line 1
+2024-03-07 17:37:15,909 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (1.0, 0.0, 0.9981818181818182)' at line 1
+2024-03-07 17:37:15,911 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.4925373134328358, 0.726)' at line 1
+2024-03-07 17:37:15,940 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.4626865671641791, 0.8165454545454546)' at line 1
+2024-03-07 17:37:15,942 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.2835820895522388, 0.9072727272727272)' at line 1
+2024-03-07 17:37:15,943 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.47761194029850745, 0.7256363636363636)' at line 1
+2024-03-07 17:37:15,944 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.4925373134328358, 0.7256363636363636)' at line 1
+2024-03-07 17:37:15,945 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.373134328358209, 0.8163636363636364)' at line 1
+2024-03-07 17:37:15,945 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.4925373134328358, 0.7256363636363636)' at line 1
+2024-03-07 17:37:15,946 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.29850746268656714, 0.8163636363636364)' at line 1
+2024-03-07 17:37:15,947 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.5074626865671642, 0.8163636363636364)' at line 1
+2024-03-07 17:37:15,948 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.2537313432835821, 0.7072727272727273)' at line 1
+2024-03-07 17:37:15,949 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.2835820895522388, 0.8163636363636364)' at line 1
+2024-03-07 17:37:15,950 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.47761194029850745, 0.8163636363636364)' at line 1
+2024-03-07 17:37:15,950 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.3582089552238806, 0.8163636363636364)' at line 1
+2024-03-07 17:37:15,951 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.9701492537313433, 0.6345454545454545)' at line 1
+2024-03-07 17:37:15,953 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.6, 0.3582089552238806, 0.4527272727272727)' at line 1
+2024-03-07 17:37:15,957 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.4, 1.0, 0.08981818181818182)' at line 1
+2024-03-07 17:37:15,958 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.0, 1.0, 0.08981818181818182)' at line 1
+2024-03-07 17:37:15,959 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.2, 0.835820895522388, 0.0)' at line 1
+2024-03-07 17:37:15,959 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (1.0, 0.029850746268656716, 1.0)' at line 1
+2024-03-07 17:37:15,960 - INFO - ETL Pipeline completed
+2024-03-07 17:37:52,108 - INFO - Data loaded successfully
+2024-03-07 17:37:52,186 - INFO - Connected to MySQL database
+2024-03-07 17:37:52,190 - INFO - Table 'data' created successfully
+2024-03-07 17:37:52,191 - INFO - Extracting data from ford_escort.csv
+2024-03-07 17:37:52,202 - INFO - Transforming data
+2024-03-07 17:37:52,205 - INFO - Loading data to MySQL database
+2024-03-07 17:37:52,206 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (1.0, 0.3283582089552239, 0.8165454545454546)' at line 1
+2024-03-07 17:37:52,207 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.1791044776119403, 0.8045454545454546)' at line 1
+2024-03-07 17:37:52,209 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (1.0, 0.34328358208955223, 0.9074545454545454)' at line 1
+2024-03-07 17:37:52,210 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (1.0, 0.0, 0.9981818181818182)' at line 1
+2024-03-07 17:37:52,211 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.4925373134328358, 0.726)' at line 1
+2024-03-07 17:37:52,212 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.4626865671641791, 0.8165454545454546)' at line 1
+2024-03-07 17:37:52,215 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.2835820895522388, 0.9072727272727272)' at line 1
+2024-03-07 17:37:52,217 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.47761194029850745, 0.7256363636363636)' at line 1
+2024-03-07 17:37:52,218 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.4925373134328358, 0.7256363636363636)' at line 1
+2024-03-07 17:37:52,219 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.373134328358209, 0.8163636363636364)' at line 1
+2024-03-07 17:37:52,220 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.4925373134328358, 0.7256363636363636)' at line 1
+2024-03-07 17:37:52,221 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.29850746268656714, 0.8163636363636364)' at line 1
+2024-03-07 17:37:52,222 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.5074626865671642, 0.8163636363636364)' at line 1
+2024-03-07 17:37:52,223 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.2537313432835821, 0.7072727272727273)' at line 1
+2024-03-07 17:37:52,224 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.2835820895522388, 0.8163636363636364)' at line 1
+2024-03-07 17:37:52,225 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.47761194029850745, 0.8163636363636364)' at line 1
+2024-03-07 17:37:52,226 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.3582089552238806, 0.8163636363636364)' at line 1
+2024-03-07 17:37:52,227 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.9701492537313433, 0.6345454545454545)' at line 1
+2024-03-07 17:37:52,228 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.6, 0.3582089552238806, 0.4527272727272727)' at line 1
+2024-03-07 17:37:52,230 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.4, 1.0, 0.08981818181818182)' at line 1
+2024-03-07 17:37:52,231 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.0, 1.0, 0.08981818181818182)' at line 1
+2024-03-07 17:37:52,233 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.2, 0.835820895522388, 0.0)' at line 1
+2024-03-07 17:37:52,234 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (1.0, 0.029850746268656716, 1.0)' at line 1
+2024-03-07 17:37:52,235 - INFO - ETL Pipeline completed
+2024-03-07 17:39:56,553 - INFO - Data loaded successfully
+2024-03-07 17:39:56,638 - INFO - Connected to MySQL database
+2024-03-07 17:39:56,642 - INFO - Table 'data' created successfully
+2024-03-07 17:39:56,643 - INFO - Extracting data from ford_escort.csv
+2024-03-07 17:39:56,659 - INFO - Transforming data
+2024-03-07 17:39:56,665 - INFO - Loading data to MySQL database
+2024-03-07 17:39:56,666 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (1.0, 0.3283582089552239, 0.8165454545454546)' at line 1
+2024-03-07 17:39:56,668 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.1791044776119403, 0.8045454545454546)' at line 1
+2024-03-07 17:39:56,670 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (1.0, 0.34328358208955223, 0.9074545454545454)' at line 1
+2024-03-07 17:39:56,671 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (1.0, 0.0, 0.9981818181818182)' at line 1
+2024-03-07 17:39:56,672 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.4925373134328358, 0.726)' at line 1
+2024-03-07 17:39:56,673 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.4626865671641791, 0.8165454545454546)' at line 1
+2024-03-07 17:39:56,675 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.2835820895522388, 0.9072727272727272)' at line 1
+2024-03-07 17:39:56,676 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.47761194029850745, 0.7256363636363636)' at line 1
+2024-03-07 17:39:56,679 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.4925373134328358, 0.7256363636363636)' at line 1
+2024-03-07 17:39:56,681 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.373134328358209, 0.8163636363636364)' at line 1
+2024-03-07 17:39:56,682 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.4925373134328358, 0.7256363636363636)' at line 1
+2024-03-07 17:39:56,684 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.29850746268656714, 0.8163636363636364)' at line 1
+2024-03-07 17:39:56,685 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.5074626865671642, 0.8163636363636364)' at line 1
+2024-03-07 17:39:56,687 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.2537313432835821, 0.7072727272727273)' at line 1
+2024-03-07 17:39:56,689 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.2835820895522388, 0.8163636363636364)' at line 1
+2024-03-07 17:39:56,690 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.47761194029850745, 0.8163636363636364)' at line 1
+2024-03-07 17:39:56,691 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.3582089552238806, 0.8163636363636364)' at line 1
+2024-03-07 17:39:56,692 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.9701492537313433, 0.6345454545454545)' at line 1
+2024-03-07 17:39:56,694 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.6, 0.3582089552238806, 0.4527272727272727)' at line 1
+2024-03-07 17:39:56,696 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.4, 1.0, 0.08981818181818182)' at line 1
+2024-03-07 17:39:56,697 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.0, 1.0, 0.08981818181818182)' at line 1
+2024-03-07 17:39:56,698 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.2, 0.835820895522388, 0.0)' at line 1
+2024-03-07 17:39:56,699 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (1.0, 0.029850746268656716, 1.0)' at line 1
+2024-03-07 17:39:56,699 - INFO - ETL Pipeline completed
+2024-03-07 17:45:06,079 - INFO - Data loaded successfully
+2024-03-07 17:45:06,156 - INFO - Connected to MySQL database
+2024-03-07 17:45:06,160 - INFO - Table 'data' created successfully
+2024-03-07 17:45:06,161 - INFO - Extracting data from ford_escort.csv
+2024-03-07 17:45:06,171 - INFO - Transforming data
+2024-03-07 17:45:06,176 - INFO - Loading data to MySQL database
+2024-03-07 17:45:06,178 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (1.0, 0.3283582089552239, 0.8165454545454546)' at line 1
+2024-03-07 17:45:06,180 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.1791044776119403, 0.8045454545454546)' at line 1
+2024-03-07 17:45:06,182 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (1.0, 0.34328358208955223, 0.9074545454545454)' at line 1
+2024-03-07 17:45:06,184 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (1.0, 0.0, 0.9981818181818182)' at line 1
+2024-03-07 17:45:06,185 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.4925373134328358, 0.726)' at line 1
+2024-03-07 17:45:06,188 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.4626865671641791, 0.8165454545454546)' at line 1
+2024-03-07 17:45:06,191 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.2835820895522388, 0.9072727272727272)' at line 1
+2024-03-07 17:45:06,192 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.47761194029850745, 0.7256363636363636)' at line 1
+2024-03-07 17:45:06,194 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.4925373134328358, 0.7256363636363636)' at line 1
+2024-03-07 17:45:06,196 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.373134328358209, 0.8163636363636364)' at line 1
+2024-03-07 17:45:06,198 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.4925373134328358, 0.7256363636363636)' at line 1
+2024-03-07 17:45:06,199 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.29850746268656714, 0.8163636363636364)' at line 1
+2024-03-07 17:45:06,201 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.5074626865671642, 0.8163636363636364)' at line 1
+2024-03-07 17:45:06,202 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.2537313432835821, 0.7072727272727273)' at line 1
+2024-03-07 17:45:06,205 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.2835820895522388, 0.8163636363636364)' at line 1
+2024-03-07 17:45:06,208 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.47761194029850745, 0.8163636363636364)' at line 1
+2024-03-07 17:45:06,211 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.3582089552238806, 0.8163636363636364)' at line 1
+2024-03-07 17:45:06,213 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.9701492537313433, 0.6345454545454545)' at line 1
+2024-03-07 17:45:06,215 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.6, 0.3582089552238806, 0.4527272727272727)' at line 1
+2024-03-07 17:45:06,217 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.4, 1.0, 0.08981818181818182)' at line 1
+2024-03-07 17:45:06,218 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.0, 1.0, 0.08981818181818182)' at line 1
+2024-03-07 17:45:06,219 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.2, 0.835820895522388, 0.0)' at line 1
+2024-03-07 17:45:06,223 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (1.0, 0.029850746268656716, 1.0)' at line 1
+2024-03-07 17:45:06,225 - INFO - ETL Pipeline completed
+2024-03-07 17:46:38,699 - INFO - Data loaded successfully
+2024-03-07 17:46:38,773 - INFO - Connected to MySQL database
+2024-03-07 17:46:38,789 - INFO - Table 'data' created successfully
+2024-03-07 17:46:38,791 - INFO - Extracting data from ford_escort.csv
+2024-03-07 17:46:38,804 - INFO - Transforming data
+2024-03-07 17:46:38,807 - INFO - Loading data to MySQL database
+2024-03-07 17:46:38,809 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (1.0, 0.3283582089552239, 0.8165454545454546)' at line 1
+2024-03-07 17:46:38,812 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.1791044776119403, 0.8045454545454546)' at line 1
+2024-03-07 17:46:38,813 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (1.0, 0.34328358208955223, 0.9074545454545454)' at line 1
+2024-03-07 17:46:38,815 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (1.0, 0.0, 0.9981818181818182)' at line 1
+2024-03-07 17:46:38,817 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.4925373134328358, 0.726)' at line 1
+2024-03-07 17:46:38,820 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.4626865671641791, 0.8165454545454546)' at line 1
+2024-03-07 17:46:38,823 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.2835820895522388, 0.9072727272727272)' at line 1
+2024-03-07 17:46:38,824 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.47761194029850745, 0.7256363636363636)' at line 1
+2024-03-07 17:46:38,826 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.4925373134328358, 0.7256363636363636)' at line 1
+2024-03-07 17:46:38,827 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.373134328358209, 0.8163636363636364)' at line 1
+2024-03-07 17:46:38,829 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.4925373134328358, 0.7256363636363636)' at line 1
+2024-03-07 17:46:38,830 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.29850746268656714, 0.8163636363636364)' at line 1
+2024-03-07 17:46:38,832 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.5074626865671642, 0.8163636363636364)' at line 1
+2024-03-07 17:46:38,833 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.2537313432835821, 0.7072727272727273)' at line 1
+2024-03-07 17:46:38,835 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.2835820895522388, 0.8163636363636364)' at line 1
+2024-03-07 17:46:38,838 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.47761194029850745, 0.8163636363636364)' at line 1
+2024-03-07 17:46:38,840 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.3582089552238806, 0.8163636363636364)' at line 1
+2024-03-07 17:46:38,842 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.9701492537313433, 0.6345454545454545)' at line 1
+2024-03-07 17:46:38,844 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.6, 0.3582089552238806, 0.4527272727272727)' at line 1
+2024-03-07 17:46:38,846 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.4, 1.0, 0.08981818181818182)' at line 1
+2024-03-07 17:46:38,847 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.0, 1.0, 0.08981818181818182)' at line 1
+2024-03-07 17:46:38,849 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.2, 0.835820895522388, 0.0)' at line 1
+2024-03-07 17:46:38,850 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (1.0, 0.029850746268656716, 1.0)' at line 1
+2024-03-07 17:46:38,851 - INFO - ETL Pipeline completed
+2024-03-07 17:46:47,127 - INFO - Data loaded successfully
+2024-03-07 17:46:47,200 - INFO - Connected to MySQL database
+2024-03-07 17:46:47,208 - INFO - Table 'data' created successfully
+2024-03-07 17:46:47,209 - INFO - Extracting data from ford_escort.csv
+2024-03-07 17:46:47,220 - INFO - Transforming data
+2024-03-07 17:46:47,223 - INFO - Loading data to MySQL database
+2024-03-07 17:46:47,224 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (1.0, 0.3283582089552239, 0.8165454545454546)' at line 1
+2024-03-07 17:46:47,226 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.1791044776119403, 0.8045454545454546)' at line 1
+2024-03-07 17:46:47,227 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (1.0, 0.34328358208955223, 0.9074545454545454)' at line 1
+2024-03-07 17:46:47,229 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (1.0, 0.0, 0.9981818181818182)' at line 1
+2024-03-07 17:46:47,230 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.4925373134328358, 0.726)' at line 1
+2024-03-07 17:46:47,232 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.4626865671641791, 0.8165454545454546)' at line 1
+2024-03-07 17:46:47,233 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.2835820895522388, 0.9072727272727272)' at line 1
+2024-03-07 17:46:47,234 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.47761194029850745, 0.7256363636363636)' at line 1
+2024-03-07 17:46:47,235 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.4925373134328358, 0.7256363636363636)' at line 1
+2024-03-07 17:46:47,237 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.373134328358209, 0.8163636363636364)' at line 1
+2024-03-07 17:46:47,239 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.4925373134328358, 0.7256363636363636)' at line 1
+2024-03-07 17:46:47,242 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.29850746268656714, 0.8163636363636364)' at line 1
+2024-03-07 17:46:47,244 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.5074626865671642, 0.8163636363636364)' at line 1
+2024-03-07 17:46:47,246 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.2537313432835821, 0.7072727272727273)' at line 1
+2024-03-07 17:46:47,248 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.2835820895522388, 0.8163636363636364)' at line 1
+2024-03-07 17:46:47,249 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.47761194029850745, 0.8163636363636364)' at line 1
+2024-03-07 17:46:47,251 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.3582089552238806, 0.8163636363636364)' at line 1
+2024-03-07 17:46:47,252 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.8, 0.9701492537313433, 0.6345454545454545)' at line 1
+2024-03-07 17:46:47,253 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.6, 0.3582089552238806, 0.4527272727272727)' at line 1
+2024-03-07 17:46:47,257 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.4, 1.0, 0.08981818181818182)' at line 1
+2024-03-07 17:46:47,259 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.0, 1.0, 0.08981818181818182)' at line 1
+2024-03-07 17:46:47,260 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (0.2, 0.835820895522388, 0.0)' at line 1
+2024-03-07 17:46:47,262 - ERROR - Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(thousands), Price) VALUES (1.0, 0.029850746268656716, 1.0)' at line 1
+2024-03-07 17:46:47,263 - INFO - ETL Pipeline completed
+2024-03-07 17:48:11,718 - INFO - Data loaded successfully
+2024-03-07 17:48:11,790 - INFO - Connected to MySQL database
+2024-03-07 17:48:11,794 - INFO - Table 'data' created successfully
+2024-03-07 17:48:11,796 - INFO - Extracting data from ford_escort.csv
+2024-03-07 17:48:11,813 - INFO - Transforming data
+2024-03-07 17:48:11,819 - INFO - Loading data to MySQL database
+2024-03-07 17:48:11,842 - INFO - ETL Pipeline completed
+2024-03-07 17:48:27,036 - INFO - Data loaded successfully
+2024-03-07 17:48:27,104 - INFO - Connected to MySQL database
+2024-03-07 17:48:27,116 - INFO - Table 'data' created successfully
+2024-03-07 17:48:27,117 - INFO - Extracting data from ford_escort.csv
+2024-03-07 17:48:27,119 - INFO - Transforming data
+2024-03-07 17:48:27,122 - INFO - Loading data to MySQL database
+2024-03-07 17:48:27,137 - INFO - ETL Pipeline completed
+2024-03-07 17:48:58,410 - INFO - Data loaded successfully
+2024-03-07 17:48:58,490 - INFO - Connected to MySQL database
+2024-03-07 17:48:58,505 - INFO - Table 'data' created successfully
+2024-03-07 17:48:58,506 - INFO - Extracting data from ford_escort.csv
+2024-03-07 17:48:58,509 - INFO - Transforming data
+2024-03-07 17:48:58,514 - INFO - Loading data to MySQL database
+2024-03-07 17:48:58,535 - INFO - ETL Pipeline completed
